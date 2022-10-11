@@ -1,0 +1,13 @@
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\IlkProjeDers.csproj.AssemblyReference.cache
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\IlkProjeDers.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\IlkProjeDers.csproj.GenerateResource.cache
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\IlkProjeDers.csproj.CoreCompileInputs.cache
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\IlkProjeDers.csproj.ResolveComReference.cache
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\bin\Debug\VizeFinalNotHesaplama.exe.config
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\bin\Debug\VizeFinalNotHesaplama.exe
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\bin\Debug\VizeFinalNotHesaplama.pdb
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\VizeFinalNotHesaplama.Properties.Resources.resources
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\VizeFinalNotHesaplama.exe
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\VizeFinalNotHesaplama.pdb
+C:\Users\nihat\source\repos\IlkProjeDers\IlkProjeDers\obj\Debug\VizeFinalNotHesaplama.Form1.resources
