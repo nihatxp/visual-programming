@@ -93,6 +93,10 @@ namespace VizeFinalNotHesaplama
                         notfPlayer.URL = string.Format("{0}Kaynak\\alert.wav", Path.GetFullPath(Path.Combine(RunningPath, @"..\..\")));
                         notfPlayer.controls.play();
                         lbldurum_dgr.Text = "Kaldı";
+                        if (!CheckVize.Checked)
+                        {
+                            lblharf_dgr.Text = "FF";
+                        }
                         gecmeDurumu = false;
                         lbldurum_dgr.ForeColor = Color.Red;
                     }
