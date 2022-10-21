@@ -1,0 +1,13 @@
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\bin\Debug\KutuphaneUygulamasi.exe.config
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\bin\Debug\KutuphaneUygulamasi.exe
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\bin\Debug\KutuphaneUygulamasi.pdb
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\Kutuphane-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\Kutuphane-Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.AnaEkran.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.DuzenlemeEkrani.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.KitapEklemeEkrani.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.Properties.Resources.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\Kutuphane-Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\Kutuphane-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.exe
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi\Kutuphane-Uygulamasi\obj\Debug\KutuphaneUygulamasi.pdb
