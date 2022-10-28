@@ -1,0 +1,38 @@
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.Cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.MainScreen.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AddBookScreen.resources
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AddBookScreen.resources
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.MainScreen.resources
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.BooksWithAuthors.resources
+C:\Users\nihat\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AddAuthor.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.AddAuthor.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.AddBookScreen.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.BooksWithAuthors.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.MainScreen.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\nihat\Desktop\Kutuphane-Uygulamasi-v2\Kutuphane\obj\Debug\Kutuphane.pdb
